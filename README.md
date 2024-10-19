@@ -2,7 +2,7 @@
 
 Bu proje, üç ayrı Docker container arasında veri paylaşımını anlamak amacıyla oluşturulmuştur. Tüm container'lar, tek bir volume'a bağlı olan `value.txt` adlı dosyayı  kullanır. 
 
-Projenin adım adım daha detaylı açıklandığı Medium makalesine [link](https://github.com/UmutSahin0/shared_data_with_volume_for_multiple_containers) aracılığı ile ulaşabilirsiniz.
+Projenin adım adım daha detaylı açıklandığı Medium makalesine [link](https://medium.com/@umutsahinn1) aracılığı ile ulaşabilirsiniz.
 
 
 ## Mimari
