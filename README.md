@@ -7,7 +7,7 @@ Projenin adım adım daha detaylı açıklandığı Medium makalesine [link](htt
 
 ## Mimari
 
-![Mimari](./mimari.png)
+![Mimari](mimari.png)
 
 ## Containerlar
 
